@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-name="CM_BRANCH" />
+  <table-filter match-name="CM_CLOTHING"/>
+  <table-filter match-name="CM_CLOTHING_REPLACE"/>
+  <table-filter match-name="CM_MENU"/>
+  <table-filter match-name="CM_MENU_ROLE"/>
+  <table-filter match-name="CM_ROLE"/>
+  <table-filter match-name="CM_SCHEME"/>
+  <table-filter match-name="CM_SCHEME_CLOTHING"/>
+  <table-filter match-name="CM_STAFF"/>
+  <table-filter match-name="CM_STAFF_SCHEME"/>
+  <table-filter match-name="CM_USER"/>
+  <table-filter match-name="CM_USER_ROLE"/>
+</hibernate-reverse-engineering>
